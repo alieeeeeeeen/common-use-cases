@@ -5,7 +5,7 @@ The simplest way to implement is creating multiple classNames.
 Fortuately, React provides React.createContext method that can advancely implement that.
 
 I decompose the implementation into four steps:
-* 1 create Context 
-* 2 create provider, which provides the theme context
-* 3 create consumer, which receives the theme content, and wrap a stateless component into the consumer
-* 4 create the stateless component, just blindly receives withouut caring who gives it.
+- create Context 
+- create provider, which provides the theme context
+- create consumer, which receives the theme content, and wrap a stateless component into the consumer
+- create the stateless component, just blindly receives withouut caring who gives it.
