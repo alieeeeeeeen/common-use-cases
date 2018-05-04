@@ -1,5 +1,5 @@
 import React from 'react';
-import Content from './Content';
+import Content from './Content.jsx';
 import DefaultButton from './Button.jsx';
 import { theme, ThemeContext } from './constant';
 
@@ -13,7 +13,7 @@ class ThemeContent extends React.Component {
   }
 
   changeTheme() {
-    this.setState((prevState) =>({
+    this.setState((prevState) => ({
       theme: prevState.theme === theme.light ? theme.red : theme.light
     }));
   }

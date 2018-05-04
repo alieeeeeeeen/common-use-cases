@@ -19,6 +19,8 @@
   "homepage": "https://github.com/alieeeeeeeen/common-case-use#readme",
   "devDependencies": {
     "babel-loader": "^7.1.4",
+    "babel-plugin-syntax-object-rest-spread": "^6.13.0",
+    "babel-plugin-transform-es2015-spread": "^6.22.0",
     "babel-plugin-transform-react-jsx": "^6.24.1",
     "css-loader": "^0.28.11",
     "eslint": "^4.19.1",

@@ -5,8 +5,8 @@ function Content(props) {
   return(
     <ThemeContext.Consumer>
       {
-        theme=> (
-          <div style={{theme}} {...other}>the content background-color will be changed by clicking the button</div>
+        theme => (
+          <div style={theme}>the content background-color will be changed by clicking the button</div>
         )
       }
     </ThemeContext.Consumer>

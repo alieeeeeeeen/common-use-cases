@@ -1,0 +1,7 @@
+{
+  "plugins": ["transform-react-jsx",
+    "syntax-object-rest-spread",
+    ["transform-es2015-spread", {
+      "loose": true
+  }]]
+}
