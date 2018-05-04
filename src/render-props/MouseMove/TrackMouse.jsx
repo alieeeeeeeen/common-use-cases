@@ -8,8 +8,8 @@ class TrackMouse extends React.Component {
   }
   render() {
     return(
-      <Mouse render={(mouse, handler) => (
-        <Button mouse={mouse} dragMethod={handler}/>
+      <Mouse render={(mouse) => (
+        <Button mouse={mouse}/>
         )
       }/>
     )

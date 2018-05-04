@@ -1,0 +1,16 @@
+#div1, #div2 {
+  width:100px;
+  height:50px;
+  padding:10px;
+  border:1px solid #aaaaaa;
+}
+
+#drag {
+  cursor: grab;
+  color: pink;
+}
+
+#dragging {
+  cursor: grab;
+  color: red;
+}
