@@ -1,5 +1,5 @@
 {
-  "name": "common-case-use-with-react",
+  "name": "common-case-use",
   "version": "1.0.0",
   "description": "Numbers of common use cases with React",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alieeeeeeeen/common-case-use-with-react.git"
+    "url": "git+https://github.com/alieeeeeeeen/common-case-use.git"
   },
   "author": "alieeeeeeeen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alieeeeeeeen/common-case-use-with-react/issues"
+    "url": "https://github.com/alieeeeeeeen/common-case-use/issues"
   },
-  "homepage": "https://github.com/alieeeeeeeen/common-case-use-with-react#readme",
+  "homepage": "https://github.com/alieeeeeeeen/common-case-use#readme",
   "devDependencies": {
     "babel-loader": "^7.1.4",
     "babel-plugin-transform-react-jsx": "^6.24.1",
