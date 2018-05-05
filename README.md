@@ -9,6 +9,9 @@ Numbers of common use cases with React.
 * With Render props
 * React.createContext to change the theme
 
+# Todo
+- Higher-order-component (higher-order-function)
+
 # Reference
-[React Docs](https://reactjs.org/)
-[MDN](https://developer.mozilla.org/)
+- [React Docs](https://reactjs.org/)
+- [MDN](https://developer.mozilla.org/)
