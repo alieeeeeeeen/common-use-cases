@@ -12,3 +12,4 @@ Note that this repo is not a software, it is a collection of common use cases th
 
 # Reference
 [React Docs](https://reactjs.org/)
+[MDN](https://developer.mozilla.org/)
