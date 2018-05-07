@@ -3,7 +3,6 @@ import React from 'react';
 // pure function
 
 function passData(WrappedComponent, fetchData) {
-
   return class extends React.Component {
     constructor(props) {
       super(props);
