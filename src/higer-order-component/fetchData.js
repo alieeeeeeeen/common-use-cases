@@ -14,7 +14,6 @@ function fetchData(props) {
           const response = JSON.parse(xhr.responseText);
           resolve(response);
         } else {
-          // not yet
           reject('error');
         }
       } else {
