@@ -9,7 +9,6 @@ class ListComponent extends React.Component {
   }
   render() {
     const Component = passData(GoodList, fetchData);
-    console.log(Component);
     return <Component />
   }
 }
